@@ -15,3 +15,8 @@ async def echo(msg:types.Message):
 async def main():
     await dp.start_polling(bot)
 run(main())
+
+
+
+
+print ("hello world")
