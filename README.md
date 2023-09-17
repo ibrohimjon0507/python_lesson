@@ -1,1 +1,1 @@
-# frontend_lesson
+# python_lesson
